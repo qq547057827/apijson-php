@@ -164,4 +164,4 @@ https://github.com/qq547057827/apijson-php/commits/master
 https://gitee.com/APIJSON/APIJSON-PHP
 
 ### 我要赞赏
-如果你喜欢 uliweb-apijson，感觉它帮助到了你，可以点右上角 ⭐Star 支持一下，谢谢 ^_^ 
+如果你喜欢 apijson-php，感觉它帮助到了你，可以点右上角 ⭐Star 支持一下，谢谢 ^_^ 
